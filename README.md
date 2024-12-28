@@ -11,7 +11,6 @@ The system is capable of detecting **87 gemstones**, providing gemologists, jewe
 <img src="https://github.com/user-attachments/assets/725dc9af-11be-4c50-962f-da384403c2d5" width="300" height="300">
 <img src="https://github.com/user-attachments/assets/1a454a7a-3417-4024-8ed6-260889de4e74" width="300" height="300">
 <img src="https://github.com/user-attachments/assets/1a7fd1d3-65da-4f79-b526-5cea7c1120ab" width="300" height="300">
-<img src="https://github.com/user-attachments/assets/d40f6e28-db34-4dcf-85bb-d158026ad8f4" width="300" height="300">
 <img src="https://github.com/user-attachments/assets/0b3064aa-8780-488d-aadb-67afa142b419" width="300" height="300">
 <img src="https://github.com/user-attachments/assets/11d5d86f-75e1-4c4b-8d38-7b617802a59b" width="300" height="300">
 <img src="https://github.com/user-attachments/assets/a90a41ba-2d8e-4f34-9bdf-b3d2ac8b2a13" width="300" height="300">
